@@ -93,6 +93,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Haskell](https://github.com/krispo/awesome-haskell)
 - [PureScript](https://github.com/passy/awesome-purescript)
 - [Go](https://github.com/avelino/awesome-go)
+- [Chapel](https://github.com/marcoscleison/awesome-chapel)
 - [Scala](https://github.com/lauris/awesome-scala)
 - [Ruby](https://github.com/markets/awesome-ruby)
 	- [Events](https://github.com/planetruby/awesome-events)
